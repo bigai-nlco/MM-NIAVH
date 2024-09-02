@@ -1,0 +1,7 @@
+python-dotenv
+jsonargparse
+langchain
+langchain-openai
+langchain-community
+openai
+moviepy
