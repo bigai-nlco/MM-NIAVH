@@ -36,7 +36,7 @@ In our benchmark, we utilize ego-centric videos from the Ego4D dataset as the "h
 
 Currently support models: 
 
-- [VideoLLaMB-Mem](https://github.com/patrick-tssn/VideoLLaMB)
+- [VideoLLaMB-Mem](https://github.com/bigai-nlco/VideoLLaMB)
 - [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA)
 - [LLaVA-NeXT-Video-DPO](https://github.com/LLaVA-VL/LLaVA-NeXT/blob/inference/docs/LLaVA-NeXT-Video.md)
 - [PLLaVA](https://github.com/magic-research/PLLaVA)
